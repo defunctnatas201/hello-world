@@ -8,5 +8,6 @@ I'm watching TV of some guy saying something smart which was nothing at all;
 so I guess that's a solution.
 My cable bill will be a receipt that said "I didn't buy nothin'."
 
-Added this tidbit from github desktop
+
+Added this tidbit from desktop
 
